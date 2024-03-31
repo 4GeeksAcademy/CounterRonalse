@@ -7,8 +7,9 @@ import "../styles/index.css";
 
 //import your own components
 import Home from "./component/Home.jsx";
+import MiComponente from "./component/Home.jsx";
 
-     ReactDOM.render(<Home />, document.querySelector("#app"));
+     ReactDOM.render(<MiComponente />, document.querySelector("#app"));
 
 //render your react application
 
